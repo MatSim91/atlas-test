@@ -169,7 +169,7 @@ export default function Page() {
           <p>
             We welcome feature requests, bug reports and questions in the{' '}
             <a href="https://github.com/wpengine/faustjs">
-              Headless Framework GitHub repository
+              Headless Framework GitHub repo
             </a>
             .
           </p>
