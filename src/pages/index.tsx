@@ -37,7 +37,7 @@ export default function Page() {
           buttonURL="https://faustjs.org"
           button2Text="Headless on GitHub"
           button2URL="https://github.com/wpengine/faustjs"
-          bgImage="/images/headless_hero_background.jpg"
+          bgImage="/images/space.jpeg"
           id={styles.home_hero}
         >
           <p>
